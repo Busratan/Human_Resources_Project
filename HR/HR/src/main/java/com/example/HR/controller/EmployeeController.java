@@ -32,9 +32,4 @@ public class EmployeeController {
         return employeeService.updateEmployee(id, employeeDetails);
 
     }
-    
-
-
-
-
 }
