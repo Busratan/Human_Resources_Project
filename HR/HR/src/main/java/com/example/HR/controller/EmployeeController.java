@@ -33,7 +33,6 @@ public class EmployeeController {
 
     }
     
-    //ToDo: Delete metodu kaldı.
 
 
 
